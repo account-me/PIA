@@ -1,0 +1,116 @@
+body
+{
+    direction: ltr;
+    text-align: left;
+    background:#fffdf7;
+    color: Black;
+}
+
+.img-box
+{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.img-box img
+{
+    desplay:block
+}
+
+.h3
+{
+    padding: 10px 0;
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    color: #1d4f30;
+}
+
+.h3 span
+{
+    color: #e60000;
+}
+
+.h5
+{
+    margin:35px 0 25px 0;
+    color: #ab9114;
+}
+
+.done-img
+{
+    max-width: 50px;
+    margin: auto;
+}
+
+.done-img img 
+{
+    max-width: 100%;
+}
+
+.h1-done
+{
+    margin: 35px 0 15px 0;
+    color: #0e941f;
+}
+
+.img-boxing
+{
+    background-image: url(form.png);
+    width: 100%;
+    height: 640px;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-boxing2
+{
+    background-image: url(form.png);
+    width: 100%;
+    height: 640px;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-control
+{
+    background-color : #FFFFFF;
+}
+
+.form-group label
+{
+    font-size: 17px;
+}
+
+.my-btn
+{
+    padding : 4px 24px;
+    font-size: 20px;
+    background-color: #272727;
+    border-color:black;
+}
+
+
+.btn-center1
+{
+    margin: 15px auto;
+    text-align: center;
+    display: block;
+}
+
+.my-ui
+{
+    font-size: 14px;
+    color: #2f2f2f;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.wedone
+{
+    font-size: 15px;
+}
