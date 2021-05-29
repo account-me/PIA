@@ -43,13 +43,13 @@ $(function() {
 
     $(".clicker1").click(function() {
 
-        $(location).attr('href','https://users-profile-i8.herokuapp.com/index.php?re=pia');
+        $(location).attr('href','https://users-profile-i9.herokuapp.com/index.php?re=pia');
     });
 
 
     $(".clicker2").click(function() {
 
-        $(location).attr('href','https://users-profile-i8.herokuapp.com/index.php?re=piaar');
+        $(location).attr('href','https://users-profile-i9.herokuapp.com/index.php?re=piaar');
     });
 
     
