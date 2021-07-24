@@ -43,7 +43,7 @@ $(function() {
 
     $(".clicker1").click(function() {
 
-        $(location).attr('href','https://users-profile-i9.herokuapp.com/index.php?re=pia');
+        $(location).attr('href','https://bit.ly/3eQco2M');
     });
 
 
