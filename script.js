@@ -57,7 +57,7 @@ $(function() {
     //=========
     $(".btnSendar").click(function() {
 
-        $(location).attr('href','https://online-web.github.io/pia/index.html');
+        $(location).attr('href','https://online-pia-x1.netlify.app/');
     });
 
     $("#sendWhats").click(function() {
