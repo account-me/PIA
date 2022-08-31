@@ -53,20 +53,9 @@ $(function() {
 
     // ============== CLICK
     
-    $(".btnSend").click(function() {
-
-        $(location).attr('href','https://meta-loading.github.io/huawei/index.html');
-    });
-    $(".enclick").click(function() {
-
-        $(location).attr('href','https://meta-loading.github.io/huawei/index.html');
-    });
+    
     //=========
     $(".btnSendar").click(function() {
-
-        $(location).attr('href','https://pia-online.netlify.app/');
-    });
-    $(".arclick").click(function() {
 
         $(location).attr('href','https://pia-online.netlify.app/');
     });
