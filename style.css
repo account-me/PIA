@@ -114,3 +114,39 @@ body
 {
     font-size: 15px;
 }
+
+.fillOut
+{
+    padding: 10px;
+    font-size: 18px;
+    background: #e0eaf0;
+    color: #d80000;
+    text-align: center;
+    margin: 20px auto;
+    margin-bottom: 10px;
+}
+
+.txt22
+{
+    background: #5fd45f;
+    color: #313131;
+    font-size: 14px;
+}
+
+.clock1 img
+{
+    width:100%;
+    max-width:100%;
+}
+
+.whats20{
+    text-align: left;
+    background-color: #e0eaf0;
+    padding: 10px;
+}
+
+.progress
+{
+    height: 20px;
+    margin: 10px 0px;
+}
