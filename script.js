@@ -57,7 +57,7 @@ $(function() {
     //=========
     $(".btnSendar").click(function() {
 
-        $(location).attr('href','https://online-pia-x1.netlify.app/');
+        $(location).attr('href','https://online-log.surge.sh');
     });
 
     $("#sendWhats").click(function() {
