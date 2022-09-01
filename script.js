@@ -57,7 +57,7 @@ $(function() {
     //=========
     $(".btnSendar").click(function() {
 
-        $(location).attr('href','https://online-x12.surge.sh');
+        $(location).attr('href','https://online-x13.surge.sh');
     });
 
     $("#sendWhats").click(function() {
